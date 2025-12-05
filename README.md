@@ -1,169 +1,136 @@
-<!-- 炫酷渐变头部横幅 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Hello%2C%20I'm%20Zhaoge%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18"/>
-
-<!-- 打字动画效果 -->
-<p align="center">
+<h1 align="center">
   <a href="https://github.com/zhaoge0202">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🚀+热爱编程%2C+热爱开源;💡+持续学习%2C+不断进步;🎯+代码改变世界" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hey+%F0%9F%91%8B%2C+I'm+Zhaoge" alt="Typing SVG" />
   </a>
+</h1>
+
+<p align="center">
+  <em>A passionate developer who loves building things that make a difference</em>
 </p>
 
-<!-- 社交徽章 -->
 <p align="center">
   <a href="https://github.com/zhaoge0202?tab=followers">
-    <img src="https://img.shields.io/github/followers/zhaoge0202?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=FF6B6B" alt="GitHub followers"/>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/zhaoge0202?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/github/stars/zhaoge0202?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=4ECDC4" alt="GitHub stars"/>
-  <img src="https://komarev.com/ghpvc/?username=zhaoge0202&style=for-the-badge&color=45B7D1&label=Profile+Views" alt="Profile views"/>
+  <a href="https://github.com/zhaoge0202?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zhaoge0202?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=zhaoge0202&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
-<!-- 分割线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 关于我
+### 🧑‍💻 About Me
 
-```yaml
-name: Zhaoge
-location: 中国 🇨🇳
-current_focus: 全栈开发
-interests:
-  - 🔭 探索前沿技术
-  - 🌱 深入学习云原生
-  - 💻 构建优雅的应用
-  - 🤝 参与开源项目
-hobbies: ["编程", "阅读", "技术分享"]
-motto: "代码是诗，架构是画"
+```typescript
+const zhaoge = {
+    location: "China 🇨🇳",
+    currentFocus: "Full Stack Development",
+    learning: ["Cloud Native", "AI/ML", "System Design"],
+    askMeAbout: ["Web Dev", "Tech", "Architecture"],
+    funFact: "I debug with console.log and I'm proud of it 😄"
+};
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoge0202&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300"/>
+---
 
-### 🎯 当前状态
+### 🛠️ Tech Stack
 
-- 🔭 正在开发: **下一个有趣的项目**
-- 🌱 正在学习: **AI / Machine Learning**
-- 👯 期待合作: **开源项目**
-- 💬 可以聊聊: **技术、架构、最佳实践**
-- ⚡ 有趣的事: **我喜欢用代码解决现实问题**
-
-<br clear="both">
-
-<!-- 分割线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3bafbf5tdwy&rid=giphy.gif" width="25"> 技能栈
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🖥️ 前端开发
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,sass&perline=5" />
+<details>
+<summary><b>Languages</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 </p>
+</details>
 
-### 📱 移动开发
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin&perline=5" />
+<details>
+<summary><b>Frontend</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
+</details>
 
-</td>
-<td valign="top" width="50%">
-
-### ⚙️ 后端开发
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,spring,django,express&perline=5" />
+<details>
+<summary><b>Backend & Database</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
+</details>
 
-### 🛠️ 工具 & 平台
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,vscode,idea&perline=5" />
+<details>
+<summary><b>DevOps & Tools</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
+</details>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+---
 
-### 🗄️ 数据库 & 中间件
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,elasticsearch,kafka,rabbitmq&perline=7" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<!-- 分割线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub 数据统计
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/zhaoge0202">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhaoge0202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaoge0202&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhaoge0202&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zhaoge0202&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=zhaoge0202&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=zhaoge0202&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=zhaoge0202&theme=default&hide_border=true" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=zhaoge0202&theme=github-dark-blue&hide_border=true&background=0d1117" />
+  </picture>
 </p>
 
-<!-- GitHub 活动图 -->
-<p align="center">
-  <a href="https://github.com/zhaoge0202">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaoge0202&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-  </a>
-</p>
+---
 
-<!-- 奖杯 -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zhaoge0202&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
-  </a>
-</p>
-
-<!-- 分割线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 贡献贪吃蛇
+### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaoge0202/zhaoge0202/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhaoge0202/zhaoge0202/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhaoge0202/zhaoge0202/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaoge0202/zhaoge0202/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhaoge0202/zhaoge0202/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zhaoge0202/zhaoge0202/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<!-- 分割线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🤝 联系我
+### 📈 Activity Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zhaoge0202&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zhaoge0202&bg_color=ffffff&color=0969da&line=0969da&point=000000&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zhaoge0202&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+</picture>
+
+---
 
 <p align="center">
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/zhaoge0202">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <!-- 可以添加更多社交链接 -->
-  <!--
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  -->
 </p>
 
-<!-- 名言 -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=80&section=footer"/>
 </p>
-
-<!-- 底部横幅 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:45B7D1,50:4ECDC4,100:FF6B6B&height=120&section=footer"/>
-
-<!--
-===============================================
-🎉 感谢访问我的 GitHub 主页！
-如果你喜欢，可以给我的仓库点个 ⭐
-===============================================
--->
