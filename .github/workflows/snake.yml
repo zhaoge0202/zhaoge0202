@@ -22,7 +22,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # 生成贪吃蛇动画SVG
+      # 生成贪吃蛇动画SVG (仅SVG版本，速度更快)
       - name: 生成贪吃蛇动画
         uses: Platane/snk/svg-only@v3
         with:
@@ -30,7 +30,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=45B7D1&color_dots=#0D1117,#0e4429,#006d32,#26a641,#39d353
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
