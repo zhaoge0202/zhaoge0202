@@ -16,6 +16,10 @@ on:
     branches:
       - main
 
+# 授予写入权限
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
