@@ -16,6 +16,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zhaoge0202?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=zhaoge0202&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  [![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/zhaoge0202)](https://githubroast.icu/u/zhaoge0202)
 </p>
 
 ---
