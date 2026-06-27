@@ -16,7 +16,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/zhaoge0202?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=zhaoge0202&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-  [![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/zhaoge0202)](https://githubroast.icu/u/zhaoge0202)
+  
 </p>
 
 ---
@@ -42,6 +42,7 @@ const zhaoge = {
   <a href="https://github.com/zhaoge0202">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://githubroast.icu/u/zhaoge0202"><img src="https://githubroast.icu/api/card/zhaoge0202" alt="GitHub Roast" width="600" /></a>
 </p>
 
 <p align="center">
