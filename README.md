@@ -42,6 +42,9 @@ const zhaoge = {
   <a href="https://github.com/zhaoge0202">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://githubroast.icu/u/zhaoge0202"><img src="https://githubroast.icu/api/card/zhaoge0202" alt="GitHub Roast" width="600" /></a>
 </p>
 
